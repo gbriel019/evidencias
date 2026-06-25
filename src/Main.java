@@ -15,7 +15,7 @@ class Program {
             sc.nextLine();
             String name = sc.nextLine();
 
-            System.out.println("Digite o preço do produto: ");
+            System.out.println("Digite o preço do produto:  ");
             double price = sc.nextDouble();
 
             vect[i] = new Product(name, price);
