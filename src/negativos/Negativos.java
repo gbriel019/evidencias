@@ -16,7 +16,7 @@ public class Negativos {
         int[] vet = new int[n];
 
         for (int i=0; i<n; i++) {
-            System.out.print("Digite um número: ");
+            System.out.print("Digite um número:  ");
             vet[i] = sc.nextInt();
         }
 
