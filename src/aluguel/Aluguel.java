@@ -1,4 +1,4 @@
-package Aluguel;
+package aluguel;
 
 import java.util.Locale;
 import java.util.Scanner;

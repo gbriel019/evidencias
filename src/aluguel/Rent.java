@@ -1,4 +1,4 @@
-package Aluguel;
+package aluguel;
 
 public class Rent {
     String name;
